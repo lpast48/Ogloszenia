@@ -1,0 +1,3 @@
+Projekt testowy wykonany na podstawie ksi¹¿ki
+"C# 6.0 i MVC 5. Tworzenie nowoczesnych portali internetowych - Krzysztof ¯ydzik, Tomasz Rak"
+Portal umo¿liwiaj¹cy dodawanie i edycjê og³oszeñ.
